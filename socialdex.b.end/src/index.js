@@ -133,7 +133,7 @@ const UserProfile = () => {
     }
 };
 
-
+//for constant render 
 useEffect(() => {
     async function setupContract() {
         try {
